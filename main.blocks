@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id=";JPc}0TS;wG[}cO[KSF)" x="20" y="20"><statement name="HANDLER"><block type="typescript_statement" id="2jYo7dwL!vd(JK0s%K9X"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="namespace logic {" line1="    /**" line2="     * Returns the XOR of two boolean values" line3="     * @param a first value" line4="     * @param b second value" line5="     */" line6="    //% block=&quot;(%a) xor (%b)&quot;" line7="    //% group=&quot;Logic&quot;" line8="    export function xor(a: boolean, b: boolean): boolean {" line9="        return (a &amp;&amp; !b) || (!a &amp;&amp; b)" line10="    }" line11="}" numlines="12"></mutation></block></statement></block></xml>
